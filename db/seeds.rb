@@ -1,4 +1,4 @@
-2.times do |x|
+1.times do |x|
 Blog.create!(
     title:"#{x} Blog",
     body:"some-body",
@@ -6,7 +6,7 @@ Blog.create!(
 end
 
 
-2.times do |y|
+1.times do |y|
 Portfolio.create!(
     title:"Portfolio #{y}",
     subtitle:"my subtitle ",
@@ -16,7 +16,7 @@ Portfolio.create!(
 )
 end
 
-2.times do |z|
+1.times do |z|
  Skill.create!(
     title:"Skill #{z}",
     percent_utilized: 15,
