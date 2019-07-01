@@ -1,7 +1,7 @@
-1.times do |x|
+3.times do |x|
 Blog.create!(
     title:"#{x} Blog",
-    body:"some-body",
+    body:"This is some content,That is it",
 )
 end
 
