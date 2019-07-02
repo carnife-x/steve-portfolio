@@ -6,7 +6,9 @@
 - Blog
 - Portfolio
 - Drag and Drop Interface
-- Many other Features
+- Live Comments
+- Search Engine Optimisation
+- 
 
 ### Code Example
 ```ruby
